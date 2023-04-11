@@ -31,4 +31,5 @@ def roman_to_decimal(roman):
                 decimal -= 200
             decimal += 1000
         roman01 = letter
+        
     return decimal
